@@ -1,0 +1,14 @@
+c:\Users\licca\Desktop\PosicaoPontoPlanoCartesiano\PosicaoPontoPlanoCartesiano\bin\Debug\net9.0\PosicaoPontoPlanoCartesiano.exe
+c:\Users\licca\Desktop\PosicaoPontoPlanoCartesiano\PosicaoPontoPlanoCartesiano\bin\Debug\net9.0\PosicaoPontoPlanoCartesiano.deps.json
+c:\Users\licca\Desktop\PosicaoPontoPlanoCartesiano\PosicaoPontoPlanoCartesiano\bin\Debug\net9.0\PosicaoPontoPlanoCartesiano.runtimeconfig.json
+c:\Users\licca\Desktop\PosicaoPontoPlanoCartesiano\PosicaoPontoPlanoCartesiano\bin\Debug\net9.0\PosicaoPontoPlanoCartesiano.dll
+c:\Users\licca\Desktop\PosicaoPontoPlanoCartesiano\PosicaoPontoPlanoCartesiano\bin\Debug\net9.0\PosicaoPontoPlanoCartesiano.pdb
+c:\Users\licca\Desktop\PosicaoPontoPlanoCartesiano\PosicaoPontoPlanoCartesiano\obj\Debug\net9.0\PosicaoPontoPlanoCartesiano.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\licca\Desktop\PosicaoPontoPlanoCartesiano\PosicaoPontoPlanoCartesiano\obj\Debug\net9.0\PosicaoPontoPlanoCartesiano.AssemblyInfoInputs.cache
+c:\Users\licca\Desktop\PosicaoPontoPlanoCartesiano\PosicaoPontoPlanoCartesiano\obj\Debug\net9.0\PosicaoPontoPlanoCartesiano.AssemblyInfo.cs
+c:\Users\licca\Desktop\PosicaoPontoPlanoCartesiano\PosicaoPontoPlanoCartesiano\obj\Debug\net9.0\PosicaoPontoPlanoCartesiano.csproj.CoreCompileInputs.cache
+c:\Users\licca\Desktop\PosicaoPontoPlanoCartesiano\PosicaoPontoPlanoCartesiano\obj\Debug\net9.0\PosicaoPontoPlanoCartesiano.dll
+c:\Users\licca\Desktop\PosicaoPontoPlanoCartesiano\PosicaoPontoPlanoCartesiano\obj\Debug\net9.0\refint\PosicaoPontoPlanoCartesiano.dll
+c:\Users\licca\Desktop\PosicaoPontoPlanoCartesiano\PosicaoPontoPlanoCartesiano\obj\Debug\net9.0\PosicaoPontoPlanoCartesiano.pdb
+c:\Users\licca\Desktop\PosicaoPontoPlanoCartesiano\PosicaoPontoPlanoCartesiano\obj\Debug\net9.0\PosicaoPontoPlanoCartesiano.genruntimeconfig.cache
+c:\Users\licca\Desktop\PosicaoPontoPlanoCartesiano\PosicaoPontoPlanoCartesiano\obj\Debug\net9.0\ref\PosicaoPontoPlanoCartesiano.dll
